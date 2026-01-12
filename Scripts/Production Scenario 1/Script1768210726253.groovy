@@ -26,12 +26,13 @@ import java.util.Arrays
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://storefront:jffd@stg.justfoodfordogs.com/dog-food-calculator/?startCalculator=true')
+WebUI.navigateToUrl(    'https://www.justfoodfordogs.com/dog-food-calculator/?startCalculator=true'
+)
 
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/div_His name is'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_concat(Your dog, , s name)_petName'), 
-    'test1')
+WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_concat(Your dog, , s name)_petName'),
+	'test1')
 
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/span_Continue'))
 
@@ -77,8 +78,8 @@ WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed 
 
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/span_Continue_4'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_Weight_petWeight'), 
-    '25')
+WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_Weight_petWeight'),
+	'25')
 
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/div_Yes'))
 
@@ -123,11 +124,11 @@ WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed 
 
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_First name_petUserName'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_First name_petUserName'), 
-    'yashas')
+WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_First name_petUserName'),
+	'yashas')
 
-WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_Email address_petUserEmail'), 
-    'yashas@perfaware.com')
+WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_Email address_petUserEmail'),
+	'yashas@perfaware.com')
 
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/span_Continue_13'))
 

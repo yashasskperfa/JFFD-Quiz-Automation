@@ -30,13 +30,21 @@ WebUI.navigateToUrl('https://storefront:jffd@stg.justfoodfordogs.com/dog-food-ca
 
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/div_His name is'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_concat(Your dog, , s name)_petName'), 
-    'test1')
+WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_concat(Your dog, , s name)_petName'),
+	'test81')
 
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/span_Continue'))
 
-WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/div_Boost Wellness'))
+//WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/div_Boost Wellness'))
+TestObject allergyOption = new TestObject('allergyOption')
+allergyOption.addProperty(
+	"xpath",
+	ConditionType.EQUALS,
+	"//label[@for='ReduceAllergies']"
+)
 
+WebUI.waitForElementClickable(allergyOption, 10)
+WebUI.click(allergyOption)
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/span_Continue_1'))
 
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/span_Continue_2'))
@@ -77,8 +85,8 @@ WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed 
 
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/span_Continue_4'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_Weight_petWeight'), 
-    '25')
+WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_Weight_petWeight'),
+	'25')
 
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/div_Yes'))
 
@@ -100,19 +108,27 @@ WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed 
 
 //WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/div_Chicken'))
 //WebUI.click(findTestObject('Object Repository/Page_JustFoodForDogs  Fresh Dog Food, Prove_e81f98/Page_Dog Food Calculator by Breed  Weight  _00aef56/div_None All are OK'))
-TestObject noAllergies = new TestObject('noAllergies')
-noAllergies.addProperty(
+TestObject venisonOption = new TestObject('venisonOption')
+venisonOption.addProperty(
 	"xpath",
 	ConditionType.EQUALS,
-	"//label[@for='NoAllergies']"
+	"//label[@for='Venison']"
 )
 
-WebUI.waitForElementClickable(noAllergies, 10)
-WebUI.click(noAllergies)
+WebUI.waitForElementClickable(venisonOption, 10)
+WebUI.click(venisonOption)
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/span_Continue_10'))
 
-WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/span_Fresh Frozen'))
+//WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/span_Fresh Frozen'))
+TestObject justFreshOption = new TestObject('justFreshOption')
+justFreshOption.addProperty(
+	"xpath",
+	ConditionType.EQUALS,
+	"//span[contains(normalize-space(.), 'JustFresh')]"
+)
 
+WebUI.waitForElementClickable(justFreshOption, 10)
+WebUI.click(justFreshOption)
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/span_Continue_11'))
 
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/span_Full Bowl'))
@@ -123,11 +139,11 @@ WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed 
 
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_First name_petUserName'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_First name_petUserName'), 
-    'yashas')
+WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_First name_petUserName'),
+	'yashas')
 
-WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_Email address_petUserEmail'), 
-    'yashas@perfaware.com')
+WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/input_Email address_petUserEmail'),
+	'yashas@perfaware.com')
 
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/span_Continue_13'))
 

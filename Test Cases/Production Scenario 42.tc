@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Production Scenario 42</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>05f136f4-f031-4e7d-a88b-3a9534fa7c6b</testCaseGuid>
+</TestCaseEntity>
