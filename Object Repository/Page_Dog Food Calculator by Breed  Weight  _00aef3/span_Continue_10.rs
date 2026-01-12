@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue_10</name>
+   <tag></tag>
+   <elementGuidId>6ad61fc2-1a87-4836-8d80-90c8bafe9efe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.nutrition_form_block.nutrition_form_block_action.nutritionplanner__fields__content__petallergicto-action.nutrition_continue > span.btn.btn-primary.btnsubmit.js-btnSubmit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='petAllergicToTab']/div[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#petAllergicToTab >> internal:text=&quot;Continue&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>37a086c3-5128-49db-9fd7-32c9e1933e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btnsubmit js-btnSubmit</value>
+      <webElementGuid>15dae14d-0603-481f-a7f3-f9a5695f1355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-gtm-event</name>
+      <type>Main</type>
+      <value>quiz-step-pet-allergy</value>
+      <webElementGuid>e3f0e0fd-1062-4e35-9dd2-eb9db996ed70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue</value>
+      <webElementGuid>eb51dcbe-d376-493b-8160-04e64cea3cf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;petAllergicToTab&quot;)/div[@class=&quot;nutrition_form_block nutrition_form_block_action nutritionplanner__fields__content__petallergicto-action nutrition_continue&quot;]/span[@class=&quot;btn btn-primary btnsubmit js-btnSubmit&quot;]</value>
+      <webElementGuid>3e98207f-0661-47aa-a015-0c7d2b731968</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='petAllergicToTab']/div[4]/span</value>
+      <webElementGuid>428d3e38-9276-42e7-b9ef-ab69a83608a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lamb'])[1]/following::span[2]</value>
+      <webElementGuid>f07aa446-16da-4b9e-a79f-e67746b3fc8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Venison'])[1]/following::span[2]</value>
+      <webElementGuid>4842ff72-9f81-4df0-9e72-b647b0a429a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test1'])[12]/preceding::span[1]</value>
+      <webElementGuid>dd895371-c41d-4a9c-8cf5-aff61a08c73d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div[4]/span</value>
+      <webElementGuid>10d8b3f2-8b2c-4472-84a8-dc948ce05cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>3ea39315-d78e-4a5d-9730-072dc4d6c971</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

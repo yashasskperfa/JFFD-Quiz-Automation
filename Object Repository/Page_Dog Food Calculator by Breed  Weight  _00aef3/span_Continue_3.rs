@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue_3</name>
+   <tag></tag>
+   <elementGuidId>c10342b6-2186-4888-a03e-f636b7336733</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.nutrition_form_block.nutrition_form_block_action.nutritionplanner__fields__content__petage-action.nutrition_continue > span.btn.btn-primary.btnsubmit.js-btnSubmit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='petAgeTab']/div[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#petAgeTab >> internal:text=&quot;Continue&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>56c786ee-b66c-4cca-9e9e-8c17f4928994</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btnsubmit js-btnSubmit</value>
+      <webElementGuid>4fc274dd-147a-47ae-bae4-939582300ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-gtm-event</name>
+      <type>Main</type>
+      <value>quiz-step-pet-birthday</value>
+      <webElementGuid>0529745f-f790-460f-82b5-afb08d6f0f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue</value>
+      <webElementGuid>b64bcae8-3d6f-4967-a356-1fad8171f543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;petAgeTab&quot;)/div[@class=&quot;nutrition_form_block nutrition_form_block_action nutritionplanner__fields__content__petage-action nutrition_continue&quot;]/span[@class=&quot;btn btn-primary btnsubmit js-btnSubmit&quot;]</value>
+      <webElementGuid>536deeb9-cd87-4da4-b7c0-2d946b5979c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='petAgeTab']/div[4]/span</value>
+      <webElementGuid>f25ea0fe-bf41-4e63-bd5d-87d75768e4d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Year'])[1]/following::span[59]</value>
+      <webElementGuid>90d39b34-82f8-494a-8884-5abf90e2f9bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test1'])[5]/preceding::span[1]</value>
+      <webElementGuid>764944a1-52d3-44db-9631-8f64a29b9613</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[4]/span</value>
+      <webElementGuid>8dd81385-613c-40d9-acfb-ad9424a39a41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>85b7d3c7-6e48-4d91-ba1a-e114aa6a7977</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

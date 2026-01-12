@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Yes</name>
+   <tag></tag>
+   <elementGuidId>a5c1b05e-3ecd-4fff-9f21-aebfc059e27b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.col-6.nutrition_form_block--radio_label > div.nutrition_form_block--radio_each.quizshortheight > div.nutrition_form_block--radio-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='petNeutered']/div/label/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#petNeutered >> internal:text=&quot;Yes&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f2a84505-e6a5-4165-91a6-8cd4b6e6a9c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nutrition_form_block--radio-text</value>
+      <webElementGuid>3ceae0f1-4c21-44f5-b025-87f8120817df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                Yes
+                                            </value>
+      <webElementGuid>e4ab2583-1256-4281-a694-d2ecfc692de6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;petNeutered&quot;)/div[@class=&quot;row justify-content-center&quot;]/label[@class=&quot;col-6 nutrition_form_block--radio_label&quot;]/div[@class=&quot;nutrition_form_block--radio_each quizshortheight&quot;]/div[@class=&quot;nutrition_form_block--radio-text&quot;]</value>
+      <webElementGuid>04d06426-fc7e-49f6-ab23-c9a135e347e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='petNeutered']/div/label/div/div</value>
+      <webElementGuid>bfbc2b56-b272-4242-b489-ad0d0a3f9adc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='neutered'])[1]/following::div[5]</value>
+      <webElementGuid>53129d51-b7b7-4778-b8ef-5d66a66a36ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='he'])[1]/following::div[5]</value>
+      <webElementGuid>c98cd2d6-587a-413e-980e-6369e42464af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::div[1]</value>
+      <webElementGuid>038df0e4-ce1d-4ebd-8916-bc4513c1163d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spayed and neutered dogs require fewer calories.'])[1]/preceding::div[3]</value>
+      <webElementGuid>f45595cc-709b-4d7e-ba3c-69deb5d6cc0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
+      <webElementGuid>c67e6857-4c45-4d41-80ff-765256932581</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/label/div/div</value>
+      <webElementGuid>c5b4c182-3a50-491b-937e-d7a4f1101030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                                                Yes
+                                            ' or . = '
+                                                Yes
+                                            ')]</value>
+      <webElementGuid>5185419c-27f9-41e0-b1d1-7770fb3a8b76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

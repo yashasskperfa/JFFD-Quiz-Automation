@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue_13</name>
+   <tag></tag>
+   <elementGuidId>b5e0b38e-760d-497a-a78f-24364bee0f19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.nutrition_form_block.nutrition_form_block_action.nutritionplanner__fields__content__petprimarygoal-action.nutrition_continue.nutritionplanner__fields__content__useremail-action > span.btn.btn-primary.btnsubmit.js-btnSubmit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='userEmailTab']/div[6]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#userEmailTab >> internal:text=&quot;Continue&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>81e61e98-0534-4bd3-9124-64ca9d45188c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btnsubmit js-btnSubmit</value>
+      <webElementGuid>bf2db623-70de-43a8-8bf9-71174525d9a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-gtm-event</name>
+      <type>Main</type>
+      <value>quiz-step-owner-name</value>
+      <webElementGuid>4086208b-9f4d-4a93-9aeb-83567def4d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue</value>
+      <webElementGuid>c961b1c8-470d-4dc1-ab53-ba30b2023ca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userEmailTab&quot;)/div[@class=&quot;nutrition_form_block nutrition_form_block_action nutritionplanner__fields__content__petprimarygoal-action nutrition_continue nutritionplanner__fields__content__useremail-action&quot;]/span[@class=&quot;btn btn-primary btnsubmit js-btnSubmit&quot;]</value>
+      <webElementGuid>e5c2498c-b890-44e2-b456-af99079e39cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='userEmailTab']/div[6]/span</value>
+      <webElementGuid>b00321c3-e014-42c3-a9e6-f85f7684dce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='privacy policy'])[1]/following::span[2]</value>
+      <webElementGuid>afbc028c-4755-4d85-879d-7f4e1a5b03aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='terms'])[1]/following::span[2]</value>
+      <webElementGuid>5639c1d4-27ea-4692-8b9c-21804be61f6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test1'])[14]/preceding::span[1]</value>
+      <webElementGuid>a5f8d3d8-aed2-4df3-988b-711a31511019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div[6]/span</value>
+      <webElementGuid>a4c06d8c-b7b8-4944-bded-a8cd96abe351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>04e71c52-f50f-45a8-86bc-bf272572a5ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

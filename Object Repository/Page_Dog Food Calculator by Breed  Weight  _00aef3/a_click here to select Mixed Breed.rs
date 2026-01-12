@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_click here to select Mixed Breed</name>
+   <tag></tag>
+   <elementGuidId>7c0ef1b3-f651-42d5-9f6b-79950b21a261</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.mixedbreedselectlink</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='petBreedsTab']/div[4]/div[2]/span/div/p/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;click here to select Mixed Breed&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7546633c-8103-4b8b-a3cc-232decce597a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mixedbreedselectlink</value>
+      <webElementGuid>8e7cddc7-cc58-46b5-a910-56225c5f6980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>5292a375-299d-43d7-88f5-05c2a1314b14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>click here to select Mixed Breed</value>
+      <webElementGuid>2c9df405-4eba-4391-9341-5cb32f1d4bcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;petBreedsTab&quot;)/div[@class=&quot;nutrition_form_block nutrition_form_block_question nutritionplanner__fields__content__petbreeds-field&quot;]/div[@class=&quot;nutritionplanner__fields__content__petbreeds-field_quick-mixed-breed&quot;]/span[1]/div[@class=&quot;content-asset&quot;]/p[1]/a[@class=&quot;mixedbreedselectlink&quot;]</value>
+      <webElementGuid>d95861bf-40e9-400e-b029-5ed332877bdf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='petBreedsTab']/div[4]/div[2]/span/div/p/a</value>
+      <webElementGuid>487122fd-f40d-4863-8820-9eb786df619b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'click here to select Mixed Breed')]</value>
+      <webElementGuid>1791a5b4-8a70-4e98-afc1-aa7655718507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select all that apply.'])[1]/following::a[1]</value>
+      <webElementGuid>a3fdf935-d766-4a60-9642-19d50e7cdf94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[4]/preceding::a[1]</value>
+      <webElementGuid>e6950e99-893c-4734-a658-d36ca1a14805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='click here to select Mixed Breed']/parent::*</value>
+      <webElementGuid>cdd911d5-b015-40c7-8a01-089a57250cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>80db9b23-eba8-4416-98fd-5efa2cabdcf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'click here to select Mixed Breed' or . = 'click here to select Mixed Breed')]</value>
+      <webElementGuid>dfc69f4f-ecce-4477-ab78-63b258a56035</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue_12</name>
+   <tag></tag>
+   <elementGuidId>eed39eba-5e77-41de-8356-016e06204ee8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#portionTypeTab > div.nutrition_form_block.nutrition_form_block_action.nutritionplanner__fields__content__petprimarygoal-action.nutrition_continue > span.btn.btn-primary.btnsubmit.js-btnSubmit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='portionTypeTab']/div[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#portionTypeTab > div:nth-child(5) > .btn</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ed338375-9d4d-4146-b7c9-5fac80d508a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btnsubmit js-btnSubmit</value>
+      <webElementGuid>2abbc3d6-11a1-4d04-ae86-980a3a63ad1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-gtm-event</name>
+      <type>Main</type>
+      <value>quiz-step-pet-food-portion</value>
+      <webElementGuid>2fcb6788-f3e2-478a-9815-ea7c4999a1c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue</value>
+      <webElementGuid>b9a2a71d-080d-45ac-bbec-4a2bfa2cc592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nutritionPlannerContent&quot;)/div[@class=&quot;tab-content&quot;]/div[@id=&quot;portionTypeTab&quot;]/div[@class=&quot;nutrition_form_block nutrition_form_block_action nutritionplanner__fields__content__petprimarygoal-action nutrition_continue&quot;]/span[@class=&quot;btn btn-primary btnsubmit js-btnSubmit&quot;]</value>
+      <webElementGuid>0b1c5d4a-9f3d-47d9-ba95-09d83ef2731a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='portionTypeTab']/div[4]/span</value>
+      <webElementGuid>3e631024-83c3-4ddb-8e11-36d96c0834ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sprinkle over regular food–any amount of fresh nutrition is better than none at all.'])[1]/following::span[2]</value>
+      <webElementGuid>28075bf0-aff7-4793-a7ad-edab3597a990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Starting at: $2.31'])[1]/following::span[3]</value>
+      <webElementGuid>8db91ffd-be18-479b-b71e-6103c027aefa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Your Dog’s Perfect Recipe (and 50% Off!)'])[1]/preceding::span[1]</value>
+      <webElementGuid>2a0cd67e-3bdf-4d93-8092-fab7e5435622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First name'])[1]/preceding::span[2]</value>
+      <webElementGuid>180732b2-72fc-46b4-8c8c-18e323dd3328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div[4]/span</value>
+      <webElementGuid>251a3812-cdc3-47e6-b0c9-dfa51b393485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>480d7cd1-6946-44e2-a7a8-0a01f969ca73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

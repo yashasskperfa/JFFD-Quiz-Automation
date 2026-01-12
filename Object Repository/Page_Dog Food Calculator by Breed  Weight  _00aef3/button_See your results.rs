@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_See your results</name>
+   <tag></tag>
+   <elementGuidId>103f7efe-7dc5-47ef-8dea-2b0dbacb7384</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btnsubmit.btnsubmit-last.calculate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;See your results&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1ec40cc0-f6d0-4491-bfce-4c4590856f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>6aa6806e-aba9-494f-9ad4-1eb730344584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btnsubmit btnsubmit-last calculate</value>
+      <webElementGuid>c0f41d55-7d95-47e7-bdf0-74a3edbbf35e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>/nutritionplannerresult/</value>
+      <webElementGuid>f240cae0-8ed4-406a-8c66-7a8a604786e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-currentpage</name>
+      <type>Main</type>
+      <value>Calculator</value>
+      <webElementGuid>dbe10ea5-7be9-4130-9d53-c8d3eddb5404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            See your results
+                        </value>
+      <webElementGuid>1cbaab17-21ca-4109-9a91-badc30f39aee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fourthQuizInterstitial&quot;)/div[@class=&quot;nutrition_form_block nutrition_form_block_action nutrition_continue nutrition_form_index&quot;]/button[@class=&quot;btn btn-primary btnsubmit btnsubmit-last calculate&quot;]</value>
+      <webElementGuid>a668356a-e875-43fd-912d-b3b2ec19f3ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[4]</value>
+      <webElementGuid>cbeda5e9-6f2c-4187-a692-a472f6afb034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fourthQuizInterstitial']/div[2]/button</value>
+      <webElementGuid>a3269f2b-9ead-4df6-a7cb-d0a7159e87a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Puppy Energy'])[1]/following::button[1]</value>
+      <webElementGuid>aa73b3a5-43cf-405f-9cdf-e0e52e5750fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shinier Coat'])[1]/following::button[1]</value>
+      <webElementGuid>e00f713b-754c-4bce-a9cc-590290a12755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get tips on pet wellness and more!'])[1]/preceding::button[1]</value>
+      <webElementGuid>ad901d77-f5ec-4c23-970c-1c14adb3a6bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/preceding::button[1]</value>
+      <webElementGuid>6ce72334-1a80-4ec5-bbf3-1c78f0f88843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='See your results']/parent::*</value>
+      <webElementGuid>deea2209-4772-412d-aebe-bea0c50a6ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[16]/div[2]/button</value>
+      <webElementGuid>8cd7ec63-2da6-463a-99c5-14a48e4c8434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '
+                            See your results
+                        ' or . = '
+                            See your results
+                        ')]</value>
+      <webElementGuid>d8037fc5-c826-448d-8d72-1b945142fc83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
