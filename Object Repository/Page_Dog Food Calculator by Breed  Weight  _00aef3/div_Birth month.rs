@@ -4,6 +4,7 @@
    <name>div_Birth month</name>
    <tag></tag>
    <elementGuidId>a36f403f-2706-4b46-af74-6ef7867cce8a</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -12,6 +13,14 @@
       <entry>
          <key>XPATH</key>
          <value>//div[@id='petAgeTab']/div[2]/div/div/button/div/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Birth month' or . = 'Birth month')]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +38,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c5f3591d-0a24-4ba8-afb8-788bac5f406d</webElementGuid>
+      <webElementGuid>ce227609-894b-470e-a8d1-b838d9c6a03f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>filter-option-inner-inner</value>
-      <webElementGuid>3a4adeb0-6ab5-4207-883d-454d041977b9</webElementGuid>
+      <webElementGuid>45b66b4a-0924-4e98-8bad-9b1f209cbf8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Birth month</value>
-      <webElementGuid>b037bb57-17d3-47b5-b9f0-029383d6c0c8</webElementGuid>
+      <webElementGuid>2af8b775-7b74-4420-a7e6-1d7fefa3118f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;petAgeTab&quot;)/div[@class=&quot;nutrition_form_block nutrition_form_block_question js_pet_birth_year_nutrition_form&quot;]/div[1]/div[@class=&quot;dropdown bootstrap-select show-tick form-control js-boottsrapSelectNoSearch arrow-down-select petBirthMonth&quot;]/button[@class=&quot;btn dropdown-toggle btn-light bs-placeholder&quot;]/div[@class=&quot;filter-option&quot;]/div[@class=&quot;filter-option-inner&quot;]/div[@class=&quot;filter-option-inner-inner&quot;]</value>
-      <webElementGuid>3a19feeb-7369-4985-9f69-e43963e0fe95</webElementGuid>
+      <webElementGuid>1d204f89-d2f7-495d-bfcd-621289b3ab54</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='petAgeTab']/div[2]/div/div/button/div/div/div</value>
-      <webElementGuid>18c529ba-767e-40ce-a646-a4340746955d</webElementGuid>
+      <webElementGuid>8141b6b9-7c46-4cdc-8080-7b092d078192</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Month'])[1]/following::div[4]</value>
-      <webElementGuid>96f04631-87be-4ff9-9bb6-f7e2108e3eae</webElementGuid>
+      <webElementGuid>186a5ba1-40c3-475d-a681-ecf0bf4c8ddb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='test1'])[4]/following::div[7]</value>
-      <webElementGuid>abff0a91-3075-4782-8cd8-ea6fc2e1e32f</webElementGuid>
+      <webElementGuid>86278f6b-0f49-4c6a-985c-ab5597c7586c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Year'])[1]/preceding::div[3]</value>
-      <webElementGuid>4b36df4e-acbf-499b-af50-099a8656b63c</webElementGuid>
+      <webElementGuid>ff0103d9-a645-479a-865c-6fa06fe1510e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Birth year'])[1]/preceding::div[4]</value>
-      <webElementGuid>47317788-c951-45ff-8b6c-faf3c3f4572b</webElementGuid>
+      <webElementGuid>9ced78ba-4496-47ac-9e40-2b28945f9353</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Birth month']/parent::*</value>
-      <webElementGuid>c12d7942-678c-4876-9560-9a493a4abaa1</webElementGuid>
+      <webElementGuid>bfe77463-6c57-481d-8c85-0fca5af5c4e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/div/div/div</value>
-      <webElementGuid>e6a61cbe-2c34-4262-a631-8d9003968a37</webElementGuid>
+      <webElementGuid>7fac12da-ef7d-4757-9001-750bcb53b215</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Birth month' or . = 'Birth month')]</value>
-      <webElementGuid>34d40ed2-4547-4dcb-830f-6c333ff01ced</webElementGuid>
+      <webElementGuid>5fd8c40b-f1dc-4122-9ee0-69cb3f6efa6f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

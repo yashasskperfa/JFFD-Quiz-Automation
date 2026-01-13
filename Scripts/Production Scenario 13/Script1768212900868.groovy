@@ -125,23 +125,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Dog Food Calculator by Bree
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/span_Continue_13'))
 
 WebUI.click(findTestObject('Object Repository/Page_Dog Food Calculator by Breed  Weight  _00aef3/button_See your results'))
-//WebUI.refresh()
-// --- HANDLE KLAVIYO POPUP IF PRESENT ---
-import com.kms.katalon.core.testobject.TestObject
-import com.kms.katalon.core.testobject.ConditionType
 
-TestObject closePopupBtn = new TestObject('klaviyoCloseBtn')
-closePopupBtn.addProperty(
-	'xpath',
-	ConditionType.EQUALS,
-	"//button[contains(@class,'klaviyo-close') or contains(@aria-label,'Close')]"
-)
-
-if (WebUI.waitForElementVisible(closePopupBtn, 5, FailureHandling.OPTIONAL)) {
-	WebUI.comment('Closing Klaviyo popup')
-	WebUI.click(closePopupBtn)
-	WebUI.delay(1)
-}
 // --- VERIFY URL ---
 String currentUrl = WebUI.getUrl()
 WebUI.verifyMatch(
